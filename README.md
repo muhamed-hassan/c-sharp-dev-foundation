@@ -1,8 +1,13 @@
-![logo-c-sharp](https://user-images.githubusercontent.com/17825804/219575406-d0e42003-c30d-4eba-bd21-a86c08a7806f.png)
+#### Please visit the wiki for more info https://github.com/muhamed-hassan/c-sharp-dev-foundation/wiki
 
 ***
 
-#### Please visit the wiki for more info https://github.com/muhamed-hassan/c-sharp-dev-foundation/wiki
+**`Difficulty Level`**: [Research and development center 🌏 🌎 🌍](https://en.wikipedia.org/wiki/Research_and_development) that belongs to a [university](https://en.wikipedia.org/wiki/University).
+
+***
+***
+
+![logo-c-sharp](https://user-images.githubusercontent.com/17825804/219575406-d0e42003-c30d-4eba-bd21-a86c08a7806f.png)
 
 ***
 
