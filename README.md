@@ -2,6 +2,10 @@
 
 ***
 
+Please visit this [link](https://github.com/muhamed-hassan/c-sharp-dev-foundation/wiki/Full-stack-developer-joke) for jokes 🤣 to avoid being a naive
+
+***
+
 **`Difficulty Level`**: [Research and development center 🌏 🌎 🌍](https://en.wikipedia.org/wiki/Research_and_development) that belongs to a [university](https://en.wikipedia.org/wiki/University).
 
 ***
