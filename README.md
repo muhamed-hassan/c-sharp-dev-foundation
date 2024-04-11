@@ -2,7 +2,7 @@
 
 ***
 
-Please visit this [`link`](https://github.com/muhamed-hassan/c-sharp-dev-foundation/wiki/Full-stack-developer-joke) for jokes 🤣 to avoid being a naive
+**Please visit this **[`link`](https://github.com/muhamed-hassan/c-sharp-dev-foundation/wiki/Full-stack-developer-joke)** for jokes 🤣 to avoid being a naive**
 
 ***
 
