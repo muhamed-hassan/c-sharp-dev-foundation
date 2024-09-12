@@ -9,6 +9,5 @@
 **`Difficulty Level`**: [Research and development center 🌏 🌎 🌍](https://en.wikipedia.org/wiki/Research_and_development) that belongs to a [university](https://en.wikipedia.org/wiki/University).
 
 ***
-***
 
 ![gods_awakening__the_fall_of_rome_by_digitalmuses_dhldikc-fullview](https://github.com/user-attachments/assets/4357f811-9cd2-4775-89a3-1b8aaadded40)
