@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\bin\Debug\net8.0\C-sharp_Project.exe
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\bin\Debug\net8.0\C-sharp_Project.deps.json
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\bin\Debug\net8.0\C-sharp_Project.runtimeconfig.json
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\bin\Debug\net8.0\C-sharp_Project.dll
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\bin\Debug\net8.0\C-sharp_Project.pdb
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\obj\Debug\net8.0\C-sharp_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\obj\Debug\net8.0\C-sharp_Project.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\obj\Debug\net8.0\C-sharp_Project.AssemblyInfo.cs
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\obj\Debug\net8.0\C-sharp_Project.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\obj\Debug\net8.0\C-sharp_Project.sourcelink.json
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\obj\Debug\net8.0\C-sharp_Project.dll
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\obj\Debug\net8.0\refint\C-sharp_Project.dll
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\obj\Debug\net8.0\C-sharp_Project.pdb
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\obj\Debug\net8.0\C-sharp_Project.genruntimeconfig.cache
+D:\Workspace\c-sharp-dev-foundation\C-sharp_Project\obj\Debug\net8.0\ref\C-sharp_Project.dll
