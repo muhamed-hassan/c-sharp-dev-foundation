@@ -1,4 +1,4 @@
-#### Please visit the wiki for more info https://github.com/muhamed-hassan/c-sharp-dev-foundation/wiki
+#### Please visit the [wiki](https://github.com/muhamed-hassan/c-sharp-dev-foundation/wiki) for more info
 
 ***
 
